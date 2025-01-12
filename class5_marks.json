@@ -1,0 +1,164 @@
+{
+    "students": [
+        {
+            "school_code": 112095,
+            "school_name": "سكا الثانوية للبنين",
+            "class_name": "الصف الخامس",
+            "id": 2003043790.0,
+            "std_name": "احمد محمد احمد المعايطة",
+            "marks": {
+                "marks_1": 78.0,
+                "marks_2": 78.0,
+                "marks_3": 67.0,
+                "marks_4": 53.0,
+                "marks_5": 71.0,
+                "marks_6": 69.0,
+                "marks_7": 95.0,
+                "marks_8": 95.0,
+                "marks_9": 62.0,
+                "marks_10": 0.0,
+                "marks_11": 0.0
+            }
+        },
+        {
+            "school_code": 112095,
+            "school_name": "سكا الثانوية للبنين",
+            "class_name": "الصف الخامس",
+            "id": 2003106751.0,
+            "std_name": "جابر احمد عبد الغني الحجران",
+            "marks": {
+                "marks_1": 64.0,
+                "marks_2": 75.0,
+                "marks_3": 73.0,
+                "marks_4": 40.0,
+                "marks_5": 63.0,
+                "marks_6": 68.0,
+                "marks_7": 94.0,
+                "marks_8": 92.0,
+                "marks_9": 66.0,
+                "marks_10": 0.0,
+                "marks_11": 0.0
+            }
+        },
+        {
+            "school_code": 112095,
+            "school_name": "سكا الثانوية للبنين",
+            "class_name": "الصف الخامس",
+            "id": 2003020950.0,
+            "std_name": "جميل الامير فراس ابراهيم المعايطه",
+            "marks": {
+                "marks_1": 84.0,
+                "marks_2": 89.0,
+                "marks_3": 60.0,
+                "marks_4": 71.0,
+                "marks_5": 70.0,
+                "marks_6": 74.0,
+                "marks_7": 94.0,
+                "marks_8": 92.0,
+                "marks_9": 84.0,
+                "marks_10": 0.0,
+                "marks_11": 0.0
+            }
+        },
+        {
+            "school_code": 112095,
+            "school_name": "سكا الثانوية للبنين",
+            "class_name": "الصف الخامس",
+            "id": 2003051131.0,
+            "std_name": "مشتاق سارى لميع الجعافره",
+            "marks": {
+                "marks_1": 87.0,
+                "marks_2": 90.0,
+                "marks_3": 66.0,
+                "marks_4": 72.0,
+                "marks_5": 80.0,
+                "marks_6": 63.0,
+                "marks_7": 96.0,
+                "marks_8": 95.0,
+                "marks_9": 87.0,
+                "marks_10": 0.0,
+                "marks_11": 0.0
+            }
+        },
+        {
+            "school_code": NaN,
+            "school_name": NaN,
+            "class_name": NaN,
+            "id": NaN,
+            "std_name": NaN,
+            "marks": {
+                "marks_1": NaN,
+                "marks_2": NaN,
+                "marks_3": NaN,
+                "marks_4": NaN,
+                "marks_5": NaN,
+                "marks_6": NaN,
+                "marks_7": NaN,
+                "marks_8": NaN,
+                "marks_9": NaN,
+                "marks_10": NaN,
+                "marks_11": NaN
+            }
+        },
+        {
+            "school_code": NaN,
+            "school_name": NaN,
+            "class_name": NaN,
+            "id": NaN,
+            "std_name": NaN,
+            "marks": {
+                "marks_1": NaN,
+                "marks_2": NaN,
+                "marks_3": NaN,
+                "marks_4": NaN,
+                "marks_5": NaN,
+                "marks_6": NaN,
+                "marks_7": NaN,
+                "marks_8": NaN,
+                "marks_9": NaN,
+                "marks_10": NaN,
+                "marks_11": NaN
+            }
+        },
+        {
+            "school_code": "تم إنشاء التقرير: 2025-01-07 16:26:15",
+            "school_name": NaN,
+            "class_name": NaN,
+            "id": NaN,
+            "std_name": NaN,
+            "marks": {
+                "marks_1": NaN,
+                "marks_2": NaN,
+                "marks_3": NaN,
+                "marks_4": NaN,
+                "marks_5": NaN,
+                "marks_6": NaN,
+                "marks_7": NaN,
+                "marks_8": NaN,
+                "marks_9": NaN,
+                "marks_10": NaN,
+                "marks_11": NaN
+            }
+        },
+        {
+            "school_code": "تم إنشاء التقرير: 2025-01-07 16:26:15",
+            "school_name": NaN,
+            "class_name": NaN,
+            "id": NaN,
+            "std_name": NaN,
+            "marks": {
+                "marks_1": NaN,
+                "marks_2": NaN,
+                "marks_3": NaN,
+                "marks_4": NaN,
+                "marks_5": NaN,
+                "marks_6": NaN,
+                "marks_7": NaN,
+                "marks_8": NaN,
+                "marks_9": NaN,
+                "marks_10": NaN,
+                "marks_11": NaN
+            }
+        }
+    ]
+}
